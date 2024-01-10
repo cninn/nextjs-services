@@ -1,36 +1,19 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+#Sayın Mehmet Pekcan'ın sıfırdan Next.js eğitiminde yer almak benim için büyük bir mutluluk oldu. Bu derste, Next.js'in temel konseptlerini ve önemli özelliklerini öğrenerek, projelerimizi daha etkili bir şekilde geliştirmeyi amaçladık. İşte bu eğitimde öğrendiğimiz başlıca konular:
 
-## Getting Started
+Services Kullanımı: Proje içerisinde veri çekme işlemlerini daha düzenli ve modüler hale getirmek amacıyla services kullanımını öğrendik. Bu, projelerimizi daha bakımı kolay ve genişletilebilir hale getirmemize yardımcı oldu.
 
-First, run the development server:
+Data Fetching: Next.js'in sağladığı çeşitli veri çekme yöntemlerini öğrenerek, sayfalarımızın ihtiyaca uygun şekilde veri almasını sağlamak için fetch işlemlerini nasıl yöneteceğimizi anladık.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+Data Structuring: Çektiğimiz verileri projemizde etkili bir şekilde kullanmak için veri yapılarını nasıl düzenleyeceğimizi ve işleyeceğimizi öğrendik. Bu sayede, veri manipülasyonunu daha anlaşılır bir hale getirebildik.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+Optional Routing: Opsiyonel yönlendirme ile sayfalarımızın nasıl çalışacağını ve URL parametrelerini nasıl kullanacağımızı öğrenerek, projelerimizi daha dinamik hale getirdik.
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+Client Side Rendering (CSR): İstemci tarafında veri çekme işlemlerini gerçekleştirerek, sayfalarımızın kullanıcı etkileşimlerine daha hızlı ve dinamik bir şekilde cevap vermesini sağlayan Client Side Rendering konseptini öğrendik.
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+Server Side Rendering (SSR): Sunucu tarafında sayfalarımızın nasıl oluşturulduğunu ve veri çekme işlemlerini nasıl gerçekleştirdiğini anlayarak, kullanıcı deneyimini optimize etmek için Server Side Rendering konseptini kavradık.
 
-## Learn More
+Çoklu Layout: Farklı sayfa türlerine ve içeriklere göre farklı şablonları (layout'ları) nasıl kullanacağımızı öğrenerek, projelerimizin tasarımını ve kullanılabilirliğini geliştirdik.
 
-To learn more about Next.js, take a look at the following resources:
+Loading ve Error Yapıları: Veri çekme işlemleri sırasında kullanıcıya uygun bir şekilde yüklenme (loading) ve hata (error) durumlarını nasıl yöneteceğimizi öğrenerek, kullanıcı deneyimini daha olumlu bir hale getirmek için bu yapıları uyguladık.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+Mehmet Pekcan'ın rehberliğinde bu konuları detaylı bir şekilde işleyerek, Next.js projelerini daha etkili bir şekilde geliştirmek adına sağlam bir temel oluşturduk. Bu eğitim, gelecekteki projelerimizde bu teknikleri başarıyla uygulamamıza olanak tanıyacak değerli bir kaynak oldu.

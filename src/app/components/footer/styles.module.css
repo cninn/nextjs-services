@@ -1,0 +1,12 @@
+.footer{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 5px;
+}
+.footer a {
+    text-decoration: underline;
+}
+.icon{
+    font-size: 32px;
+}
